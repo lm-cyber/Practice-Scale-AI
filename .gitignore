@@ -1,0 +1,6 @@
+/train/
+/test/
+/catboost_info/
+/result.txt
+/.idea/
+/.venv/
